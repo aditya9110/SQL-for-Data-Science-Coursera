@@ -12,7 +12,8 @@ In the second part of the assignment, you are asked to come up with your own inf
 For both parts of this assignment, use this "worksheet." It provides all the questions you are being asked, and your job will be to transfer your answers and SQL coding where indicated into this worksheet so that your peers can review your work. You should be able to use any Text Editor (Windows Notepad, Apple TextEdit, Notepad ++, Sublime Text, etc.) to copy and paste your answers. If you are going to use Word or some other page layout application, just be careful to make sure your answers and code are lined appropriately.
 In this case, you may want to save as a PDF to ensure your formatting remains intact for you reviewer.
 
-
+## Yelp Dataset ER Diagram
+![Yelp Dataset ER Diagram](https://github.com/aditya9110/SQL-for-Data-Science-Coursera/blob/main/Yelp%20Dataset%20ER%20Diagram.png)
 
 ## Part 1: Yelp Dataset Profiling and Understanding
 
