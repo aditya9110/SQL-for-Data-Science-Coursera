@@ -151,6 +151,7 @@ Copy and Paste the Result Below:
 | Surprise        |        1520 |
 | Lakewood        |        1465 |
 | Goodyear        |        1155 |
+
 (Output limit exceeded, 25 of 362 total rows shown)
 	
 
